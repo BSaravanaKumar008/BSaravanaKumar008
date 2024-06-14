@@ -30,6 +30,6 @@
   <a href="https://argoproj.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsaravanakumar008&show_icons=true&locale=en&layout=compact" alt="bsaravanakumar008" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsaravanakumar008&show_icons=true&locale=en&layout=compact&hide=html,css" alt="bsaravanakumar008" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsaravanakumar008&show_icons=true&locale=en" alt="bsaravanakumar008" /></p>
