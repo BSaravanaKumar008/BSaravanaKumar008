@@ -43,4 +43,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsaravanakumar008&show_icons=true&locale=en&layout=compact&hide=html,css" alt="bsaravanakumar008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsaravanakumar008&show_icons=true&locale=en" alt="bsaravanakumar008" /></p>
+<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=bsaravanakumar008&theme=light" alt="bsaravanakumar008" /></p>
+
