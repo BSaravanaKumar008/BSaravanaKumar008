@@ -20,9 +20,9 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
@@ -30,6 +30,15 @@
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://argoproj.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsaravanakumar008&show_icons=true&locale=en&layout=compact&hide=html,css" alt="bsaravanakumar008" /></p>
