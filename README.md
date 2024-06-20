@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm B.SaravanaKumar</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.freepik.com/free-vector/coding-round-composition_10272352.htm#query=Coding%20animated%20image&position=24&from_view=search&track=ais&uuid=a74d87be-09a0-4ebe-8806-908c2bb7e559](https://www.freepik.com/free-vector/endpoint-concept-illustration_9233784.htm#fromView=search&page=1&position=4&uuid=8ae741a0-8cd5-4548-abd6-e72c9590490f)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?t=st=1718875090~exp=1718878690~hmac=4aef6fb82883330d49f63a02d65e800c2db3233d218be74f8644ac4f0601e986&w=996">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsaravanakumar008&label=Profile%20views&color=0e75b6&style=flat" alt="bsaravanakumar008" /> </p>
 
